@@ -33,7 +33,7 @@ I'm a passionate Full Stack Developer from Sri Lanka, dedicated to creating effi
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KavinduDevinda97)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinduDevinda97&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDevinda97&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDevinda97&layout=compact)
 ## 🤝 Let's Connect!
 
 <div align="center">
