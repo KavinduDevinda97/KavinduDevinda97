@@ -31,15 +31,14 @@ I'm a passionate Full Stack Developer from Sri Lanka, dedicated to creating effi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkavindu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KavinduDevinda97)](https://git.io/streak-stats)</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KavinduDevinda97)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinduDevinda97&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDevinda97&hide_progress=true)
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kavindudevindaportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-devinda-41b506207/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kavindudevinda9@gmail.com)
