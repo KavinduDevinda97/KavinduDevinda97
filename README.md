@@ -34,8 +34,7 @@ I'm a passionate Full Stack Developer from Sri Lanka, dedicated to creating effi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devkavindu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkavindu&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KavinduDevinda97)](https://git.io/streak-stats)</div>
 
 ## 🤝 Let's Connect!
 
