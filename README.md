@@ -33,7 +33,7 @@ I'm a passionate Full Stack Developer from Sri Lanka, dedicated to creating effi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KavinduDevinda97)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ## 🤝 Let's Connect!
 
 <div align="center">
